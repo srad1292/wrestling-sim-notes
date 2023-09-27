@@ -4,15 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "0bf5b57c1bcedbfe",
+        "id": "22d0f680e402301c",
         "type": "tabs",
         "children": [
           {
-            "id": "418545bd181b27ba",
+            "id": "6b39c1b865dc7b5d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "notes/pre-development/Release version breakdown.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "db3a162976e5a0b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68ce568787215764",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/pre-development/Version 0.1.0 Breakdown.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 233.5
   },
   "right": {
     "id": "afe7d46a626b44d0",
@@ -81,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/pre-development/Release version breakdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/pre-development/Release version breakdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +142,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/pre-development/Release version breakdown.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,6 +163,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "418545bd181b27ba",
-  "lastOpenFiles": []
+  "active": "6b39c1b865dc7b5d",
+  "lastOpenFiles": [
+    "project-management/Pre-Development.md",
+    "notes/pre-development/Release version breakdown.md",
+    "notes/pre-development/Version 0.3.0 Breakdown.md",
+    "notes/pre-development/Version 0.2.0 Breakdown.md",
+    "notes/pre-development/Version 0.1.0 Breakdown.md",
+    "notes/pre-development/Create list of match types to support and break them down by release.md",
+    "notes/pre-development/Create list of game modes.md",
+    "notes/pre-development",
+    "project-management/Planning Stage.md",
+    "Untitled.md",
+    "project-management",
+    "notes",
+    "questions"
+  ]
 }
