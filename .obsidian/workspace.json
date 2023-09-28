@@ -18,26 +18,19 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "db3a162976e5a0b6",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "68ce568787215764",
+            "id": "6f7f703064843ff7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "notes/pre-development/Version 0.1.0 Breakdown.md",
-                "mode": "source",
-                "source": false
+                "file": "project-management/Pre-Development.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/pre-development/Release version breakdown.md",
+                "file": "project-management/Pre-Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/pre-development/Release version breakdown.md",
+                "file": "project-management/Pre-Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/pre-development/Release version breakdown.md"
+                "file": "project-management/Pre-Development.md"
               }
             }
           }
@@ -163,15 +156,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b39c1b865dc7b5d",
+  "active": "6f7f703064843ff7",
   "lastOpenFiles": [
+    "notes/pre-development/Document Weapon List.md",
     "project-management/Pre-Development.md",
+    "project-management/Version 0.1.0 - Static Normal Match.md",
     "notes/pre-development/Release version breakdown.md",
-    "notes/pre-development/Version 0.3.0 Breakdown.md",
-    "notes/pre-development/Version 0.2.0 Breakdown.md",
     "notes/pre-development/Version 0.1.0 Breakdown.md",
     "notes/pre-development/Create list of match types to support and break them down by release.md",
+    "notes/pre-development/Untitled.md",
+    "notes/pre-development/Version 0.8.0 Breakdown.md",
     "notes/pre-development/Create list of game modes.md",
+    "notes/pre-development/Version 0.3.0 Breakdown.md",
+    "notes/pre-development/Version 0.2.0 Breakdown.md",
+    "notes/pre-development/Version 0.7.0 Breakdown.md",
+    "notes/pre-development/Version 0.6.0 Breakdown.md",
+    "notes/pre-development/Version 0.5.0 Breakdown.md",
+    "notes/pre-development/Version 0.4.0 Breakdown.md",
     "notes/pre-development",
     "project-management/Planning Stage.md",
     "Untitled.md",

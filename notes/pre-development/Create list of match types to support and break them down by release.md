@@ -37,7 +37,7 @@ Handicap
 Elimination Chamber
 Cage
 Hardcore
-No count-out (perhaps this is just an option)
+No count-out (perhaps this is just an option or maybe even not needed since you aren't really controlling wrestlers movement)
 
 Wanted Match Types:
 Tornado Tag
