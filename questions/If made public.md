@@ -1,0 +1,4 @@
+- Moves that are trademarked
+- Matches that are trademarked
+- Couldn't use wrestler names
+- 
