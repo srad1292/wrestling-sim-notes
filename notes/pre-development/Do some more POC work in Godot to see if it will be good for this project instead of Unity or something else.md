@@ -1,6 +1,6 @@
 Things to figure out:
 
-- Database in Godot
+- Database/Data storage options in Godot
 - Camera for different screen resolutions
 	- Game is all about menus/text/ui so important to test
 - User input work:

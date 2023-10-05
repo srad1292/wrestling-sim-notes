@@ -15,6 +15,7 @@ kanban-plugin: basic
 ## In Progress
 
 - [ ] [[Create move list (just names, descriptions, and when they can be performed)]]
+- [ ] [[Document complete feature breakdown]]
 
 
 ## Done

@@ -8,48 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6b39c1b865dc7b5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/pre-development/Release version breakdown.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f7f703064843ff7",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "project-management/Pre-Development.md"
-              }
-            }
-          },
-          {
-            "id": "eec07d8ef5ef23c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/pre-development/Create move list (just names, descriptions, and when they can be performed).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "891cb66479974a0a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "025813920840cd95",
+            "id": "e99c30065eef4a25",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -59,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0ffbab5f3cc59b52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "questions/Federation Mode Qs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "questions/General.md",
+                "file": "questions/Federation Mode Qs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "questions/General.md",
+                "file": "questions/Federation Mode Qs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "questions/General.md"
+                "file": "questions/Federation Mode Qs.md"
               }
             }
           }
@@ -186,26 +158,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "025813920840cd95",
+  "active": "0ffbab5f3cc59b52",
   "lastOpenFiles": [
-    "questions/If made public.md",
-    "questions/General.md",
+    "notes/pre-development/Document complete feature breakdown.md",
+    "questions/Federation Mode Qs.md",
+    "notes/pre-development/Create list of game modes.md",
+    "notes/pre-development/Release version breakdown.md",
     "notes/pre-development/Version 0.8.0 Breakdown.md",
-    "notes/pre-development/Version 0.7.0 Breakdown.md",
-    "notes/pre-development/Version 0.6.0 Breakdown.md",
     "notes/pre-development/Version 0.5.0 Breakdown.md",
     "notes/pre-development/Version 0.4.0 Breakdown.md",
+    "notes/pre-development/Do some more POC work in Godot to see if it will be good for this project instead of Unity or something else.md",
+    "questions/General.md",
+    "project-management/Pre-Development.md",
+    "project-management/Version 0.1.0 - Static Normal Match.md",
+    "notes/pre-development/Create move list (just names, descriptions, and when they can be performed).md",
     "notes/pre-development/Version 0.3.0 Breakdown.md",
+    "notes/pre-development/Version 0.6.0 Breakdown.md",
+    "notes/pre-development/Version 0.7.0 Breakdown.md",
     "notes/pre-development/Version 0.2.0 Breakdown.md",
     "notes/pre-development/Version 0.1.0 Breakdown.md",
-    "notes/pre-development/Do some more POC work in Godot to see if it will be good for this project instead of Unity or something else.md",
-    "notes/pre-development/Create move list (just names, descriptions, and when they can be performed).md",
+    "questions/If made public.md",
     "notes/pre-development/Create list of match types to support and break them down by release.md",
-    "notes/pre-development/Create list of game modes.md",
     "notes/pre-development/Document Weapon List.md",
-    "project-management/Pre-Development.md",
-    "notes/pre-development/Release version breakdown.md",
-    "project-management/Version 0.1.0 - Static Normal Match.md",
     "notes/pre-development/Untitled.md",
     "notes/pre-development",
     "project-management/Planning Stage.md",

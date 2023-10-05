@@ -1,4 +1,4 @@
 - Moves that are trademarked
 - Matches that are trademarked
-- Couldn't use wrestler names
+- Couldn't use wrestler names?  Or can you. Did EWR use real names at time of download?
 - 

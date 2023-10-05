@@ -22,4 +22,6 @@
 
 3.0.0: Federation Mode
 
-4.0.0: Add support for more matches.  Introduce weapons/disqualifications to non-hardcore matches.
+4.0.0: Import/export of overall data and of federation mode data
+
+5.0.0: Add support for more matches.  Introduce weapons/disqualifications to non-hardcore matches.
