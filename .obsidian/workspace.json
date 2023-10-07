@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "questions/General.md",
+                "file": "notes/pre-development/Create list of match types to support and break them down by release.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Node-POC/From playing through node-wrestling-poc.md",
+                "file": "notes/version-3-federation-mode/Design Breakdown.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "badc8aa37785d542",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/pre-development/Create list of game modes.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Node-POC/From playing through node-wrestling-poc.md",
+                "file": "notes/version-3-federation-mode/Design Breakdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Node-POC/From playing through node-wrestling-poc.md",
+                "file": "notes/version-3-federation-mode/Design Breakdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Node-POC/From playing through node-wrestling-poc.md"
+                "file": "notes/version-3-federation-mode/Design Breakdown.md"
               }
             }
           }
@@ -158,21 +170,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7761011558907a57",
+  "active": "0ffbab5f3cc59b52",
   "lastOpenFiles": [
+    "notes/pre-development/Release version breakdown.md",
+    "notes/version-2-tournament-mode",
+    "notes/version-1-free-play-mode",
+    "notes/version-3-federation-mode/Design Breakdown.md",
+    "notes/pre-development/Create list of game modes.md",
+    "notes/Node-POC/From playing through node-wrestling-poc.md",
+    "notes/pre-development/Create list of match types to support and break them down by release.md",
+    "notes/version-3-federation-mode",
+    "project-management/Version 0.1.0 - Static Normal Match.md",
+    "questions/General.md",
     "notes/Node-POC",
     "questions/Federation Mode Qs.md",
-    "notes/Node-POC/From playing through node-wrestling-poc.md",
     "notes/pre-development/Document complete feature breakdown.md",
-    "notes/pre-development/Create list of game modes.md",
-    "notes/pre-development/Release version breakdown.md",
     "notes/pre-development/Version 0.8.0 Breakdown.md",
     "notes/pre-development/Version 0.5.0 Breakdown.md",
     "notes/pre-development/Version 0.4.0 Breakdown.md",
     "notes/pre-development/Do some more POC work in Godot to see if it will be good for this project instead of Unity or something else.md",
-    "questions/General.md",
     "project-management/Pre-Development.md",
-    "project-management/Version 0.1.0 - Static Normal Match.md",
     "notes/pre-development/Create move list (just names, descriptions, and when they can be performed).md",
     "notes/pre-development/Version 0.3.0 Breakdown.md",
     "notes/pre-development/Version 0.6.0 Breakdown.md",
@@ -180,7 +197,6 @@
     "notes/pre-development/Version 0.2.0 Breakdown.md",
     "notes/pre-development/Version 0.1.0 Breakdown.md",
     "questions/If made public.md",
-    "notes/pre-development/Create list of match types to support and break them down by release.md",
     "notes/pre-development/Document Weapon List.md",
     "notes/pre-development",
     "project-management/Planning Stage.md",

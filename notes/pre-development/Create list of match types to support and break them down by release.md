@@ -14,6 +14,7 @@ Battle Royal
 Royal Rumble
 Falls count anywhere
 No count-out
+Best 2-of-3
 Ironman
 Casket
 Elimination Chamber
