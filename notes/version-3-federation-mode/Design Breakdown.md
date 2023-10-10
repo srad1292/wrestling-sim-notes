@@ -77,6 +77,25 @@ History
 - Be able to view history of any team
 - Be able to view history of any show
 
+Title History
+- Won by x from y at z
+
+Wrestler History
+- Number of matches
+- Wins / Losses / Draws
+- Current title(s)
+- Title history
+	- Won x title from y
+	- Loss x title to z
+- Special Events:
+	- Won 30+ man battle royal
+	- Won royal rumble
+	- Won money in the bank
+	- First match
+	- First title
+	- Won tournament
+
+
 
 Groups
 - Create Team

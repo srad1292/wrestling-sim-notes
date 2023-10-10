@@ -22,6 +22,16 @@
 
 
 \-Create a move-
+- Maybe a search bar with option to use a different move as a template
+- Name
+- Description
+- Style (dropdown)
+- Category (autocomplete/create new)
+- Damage
+- Difficulty
+- Finisher?
+- Can hit male? 
+- Can hit female? (ie lowblow makes no sense against women)
 
 
 \-Create a title
@@ -37,7 +47,6 @@
 
 
 \-Federation Mode-
-
-
+[[Design Breakdown]]
 
 

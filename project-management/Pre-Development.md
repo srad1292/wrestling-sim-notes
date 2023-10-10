@@ -14,6 +14,7 @@ kanban-plugin: basic
 
 ## In Progress
 
+- [ ] [[List each type of data and how it will be stored]]
 - [ ] [[Create move list (just names, descriptions, and when they can be performed)]]
 - [ ] [[Document complete feature breakdown]]
 

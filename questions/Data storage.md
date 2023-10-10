@@ -1,0 +1,5 @@
+-> Resource Files
+- Can resource files be renamed
+- Can resource files be deleted
+- Can resource files be moved
+- If any of above are true, need to understand how storing links to them in other res files/database/json files/etc would be affected 
