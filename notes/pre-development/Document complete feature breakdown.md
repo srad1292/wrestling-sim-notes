@@ -44,9 +44,10 @@
 
 \-Tournament-
  - Save/load/delete tournaments
+ - [[notes/version-2-tournament-mode/Design Breakdown|Design Breakdown]]
 
 
 \-Federation Mode-
-[[Design Breakdown]]
+- [[Design Breakdown]]
 
 

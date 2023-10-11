@@ -9,7 +9,6 @@ kanban-plugin: basic
 - [ ] Document character attributes
 - [ ] Document plan for match flow/when moves can be performed/etc
 - [ ] Document plan for structure of objects
-- [ ] [[Do some more POC work in Godot to see if it will be good for this project instead of Unity or something else]]
 
 
 ## In Progress
@@ -17,6 +16,7 @@ kanban-plugin: basic
 - [ ] [[List each type of data and how it will be stored]]
 - [ ] [[Create move list (just names, descriptions, and when they can be performed)]]
 - [ ] [[Document complete feature breakdown]]
+- [ ] [[Do some more POC work in Godot to see if it will be good for this project instead of Unity or something else]]
 
 
 ## Done

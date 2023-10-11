@@ -13,41 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/version-3-federation-mode/Design Breakdown.md",
+                "file": "notes/version-2-tournament-mode/Design Breakdown.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ff364d2e7558e253",
+            "id": "803188b191afd811",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chat-convos/01 Resources for data in Godot.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "719d55963f00fa47",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "project-management/Pre-Development.md"
-              }
-            }
-          },
-          {
-            "id": "edda1c8284aa50f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "questions/Data storage.md",
+                "file": "notes/pre-development/Create list of match types to support and break them down by release.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,14 +97,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/version-3-federation-mode/Design Breakdown.md",
+                "file": "notes/version-2-tournament-mode/Design Breakdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -136,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/version-3-federation-mode/Design Breakdown.md",
+                "file": "notes/version-2-tournament-mode/Design Breakdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/version-3-federation-mode/Design Breakdown.md"
+                "file": "notes/version-2-tournament-mode/Design Breakdown.md"
               }
             }
           }
@@ -181,20 +159,21 @@
   },
   "active": "0ffbab5f3cc59b52",
   "lastOpenFiles": [
-    "chat-convos/02 Interacting with .res files in godot.md",
     "notes/pre-development/Create list of match types to support and break them down by release.md",
-    "chat-convos/01 Resources for data in Godot.md",
+    "notes/version-2-tournament-mode/Design Breakdown.md",
+    "notes/pre-development/Document complete feature breakdown.md",
     "project-management/Pre-Development.md",
     "questions/Data storage.md",
+    "chat-convos/01 Resources for data in Godot.md",
+    "project-management/Version 0.1.0 - Static Normal Match.md",
+    "notes/pre-development/Do some more POC work in Godot to see if it will be good for this project instead of Unity or something else.md",
     "notes/version-3-federation-mode/Design Breakdown.md",
+    "chat-convos/02 Interacting with .res files in godot.md",
     "notes/pre-development/List each type of data and how it will be stored.md",
     "questions/Federation Mode Qs.md",
-    "notes/pre-development/Do some more POC work in Godot to see if it will be good for this project instead of Unity or something else.md",
     "notes/pre-development/Create move list (just names, descriptions, and when they can be performed).md",
-    "notes/pre-development/Document complete feature breakdown.md",
     "chat-convos",
     "notes/pre-development/Create list of game modes.md",
-    "project-management/Version 0.1.0 - Static Normal Match.md",
     "notes/pre-development/Release version breakdown.md",
     "notes/version-2-tournament-mode",
     "notes/version-1-free-play-mode",
@@ -211,7 +190,6 @@
     "notes/pre-development/Version 0.2.0 Breakdown.md",
     "notes/pre-development/Version 0.1.0 Breakdown.md",
     "questions/If made public.md",
-    "notes/pre-development/Document Weapon List.md",
     "notes/pre-development",
     "project-management",
     "notes",
